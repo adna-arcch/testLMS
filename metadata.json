@@ -1,0 +1,5 @@
+{
+  "name": "  LearnSphere AI v2.0",
+  "description": "An intelligent self-study application that uses AI to summarize notes, generate quizzes, and translate languages. Organize your study schedule with the built-in timetable. Upload your study materials (PDFs, images) and let the AI assist your learning journey in English or Sinhala.",
+  "requestFramePermissions": []
+}
